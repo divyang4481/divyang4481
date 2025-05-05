@@ -5,7 +5,7 @@
 🔧 With 18+ years of experience designing and implementing scalable enterprise and cloud-native systems, I specialize in:
 - **Generative AI** using GPT-3/4, BERT, T5, Prompt Engineering
 - **Cloud Platforms**: Azure | AWS | GCP
-- **AI/ML & Data Science**: PyTorch, Scikit-learn, AzureML, Data Intelligence
+- **AI/ML & Data Science**: PyTorch, Scikit-learn, AzureML, Data Intelligence, Vertex AI Platform
 - **IoT Development**: Azure IoT, Embedded Systems (Raspberry Pi)
 - **Software Engineering**: .NET, Java, NodeJS, Python, Microservices
 
