@@ -13,9 +13,15 @@ I like working at the boundary of software architecture, AI research, systems en
 
 ### 🧠 AI, ML & Generative AI
 - Custom Transformer and LLM architecture experiments focused on lower memory movement, smaller parameter count, and efficient inference.
-- Agentic AI workflows for software engineering, architecture generation, document processing.
+- Agentic AI and multi-agent workflow design for software engineering, architecture generation, document processing, and enterprise automation.
 - LLM-powered extraction, mapping, and structured JSON generation for enterprise document automation.
+- Multi-agent solution patterns using planner agents, researcher agents, coding agents, reviewer agents, retrieval agents, critic/evaluator agents, and workflow orchestration.
+- Advanced Reinforcement Learning concepts for autonomous decision-making, optimization, planning, reward modeling, and adaptive AI systems.
+- Custom Transformer and LLM architecture experiments focused on lower memory movement, smaller parameter count, and efficient inference.
+- LLM-powered extraction, mapping, and structured JSON generation for enterprise document automation.
+- Exploring OS, semiconductor, and accelerator ideas for future AI systems.
 - Applied ML using PyTorch, Scikit-learn, Hugging Face, Ollama, AWS Bedrock, Azure OpenAI, and Vertex AI.
+- Creating cloud-native architectures that are secure, scalable, and cost-aware
 
 ### ☁️ Cloud & Enterprise Architecture
 - Multi-cloud solution architecture across AWS, Azure, and GCP.
@@ -66,7 +72,7 @@ Research keywords:
 
 ## 🛠️ Tech Stack
 
-**AI/ML:** PyTorch · Scikit-learn · Hugging Face · LangGraph · Ollama · AWS Bedrock · Azure OpenAI · Vertex AI  
+**AI/ML & Agentic AI:** PyTorch · Scikit-learn · Hugging Face · LangGraph · CrewAI · AutoGen · Ollama · AWS Bedrock · Azure OpenAI · Vertex AI
 **Cloud:** AWS · Azure · GCP · Lambda · ECS/Fargate · Cloud Run · BigQuery · Firestore · DynamoDB  
 **Languages:** Python · Java · C# · JavaScript · TypeScript · C/C++  
 **Architecture:** Microservices · Event-driven Systems · Serverless · API Management · Distributed Systems  
